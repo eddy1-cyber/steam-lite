@@ -1,0 +1,42 @@
+[
+  {
+    "id": "snake-classic",
+    "title": "Snake Arcade",
+    "price": 4.99,
+    "genre": "Arcade",
+    "description": "El clásico juego de la serpiente reinventado en HTML5 Canvas. Junta manzanas y evita chocar contra las paredes.",
+    "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.8
+  },
+  {
+    "id": "cyber-memory",
+    "title": "Cyber Memory",
+    "price": 0.00,
+    "genre": "Puzzle",
+    "description": "Pon a prueba tu memoria encontrando parejas de cartas cibernéticas en el menor tiempo posible.",
+    "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "type": "interactive",
+    "rating": 4.3
+  },
+  {
+    "id": "space-runner",
+    "title": "Space Runner 2099",
+    "price": 9.99,
+    "genre": "Acción",
+    "description": "Esquiva meteoritos y naves enemigas en un frenético viaje espacial con estética synthwave.",
+    "cover": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.6
+  },
+  {
+    "id": "pixel-racer",
+    "title": "Retro Pixel Racer",
+    "price": 2.99,
+    "genre": "Carreras",
+    "description": "Carreras de velocidad con gráficos retro de 8 bits y pistas desafiantes.",
+    "cover": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.1
+  }
+]
